@@ -2,4 +2,4 @@
 
 Introduction to Python
 
-My practice sets for my basic python programming
+My notes and practice sets for my basic python programming from different free online tutorials.
